@@ -63,6 +63,14 @@ button:hover {
   font-weight: bold;
 }
 
+.message.correct {
+  color: green;
+}
+
+.message.wrong {
+  color: red;
+}
+
 #div-success {
   display: none;
   color: green;
